@@ -30,3 +30,5 @@ zuul:
     svcb-service:
       path: /svcb/**
       sensitiveHeaders:
+    jxls2-service:
+      path: /excelconvert/**     
