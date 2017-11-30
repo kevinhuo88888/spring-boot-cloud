@@ -31,4 +31,5 @@ zuul:
       path: /svcb/**
       sensitiveHeaders:
     jxls2-service:
-      path: /excelconvert/**     
+      path: /excelconvert/**
+      sensitiveHeader
