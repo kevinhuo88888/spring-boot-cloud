@@ -32,4 +32,4 @@ zuul:
       sensitiveHeaders:
     jxls2-service:
       path: /excelconvert/**
-      sensitiveHeader
+      sensitiveHeaders:
