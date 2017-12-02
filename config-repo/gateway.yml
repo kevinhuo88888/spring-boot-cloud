@@ -34,7 +34,7 @@ zuul:
       path: /excelconvert/**
       stripPrefix: false
       sensitiveHeaders:
-   jxls1-service:
+    jxls1-service:
       path: /excel_v1_convert/**
       stripPrefix: false
       sensitiveHeaders:
